@@ -1,7 +1,12 @@
-<header>
-  <h1>{{ .Title }}</h1>
-</header>
+{{ define "main" }}
+<main aria-role="main">
+  <div>
 
-<main>
-  {{ .Content }}
+    <!-- {* partial "subtitle.html" . }} {{- with .Site.Params.social }}
+    <div>{{ partial "social-icons.html" . }}</div>
+    {{- end }} -->
+
+    <div>{{ .Content }}</div>
+  </div>
 </main>
+{{ end }}

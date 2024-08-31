@@ -18,5 +18,6 @@
   },
   "homepage": "https://github.com/vtabary/vincent.tabary.me#readme",
   "dependencies": {
+    "modern-normalize": "^3.0.0"
   }
 }
