@@ -1,0 +1,46 @@
+:root {
+  --main-dark-color: #242528;
+  --main-light-color: #9c9c9c;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: var(--main-light-color);
+  color: var(--main-dark-color);
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  opacity: 0.5;
+  text-decoration: none;
+  border: none;
+  border-bottom: 1px dotted var(--main-dark-color);
+  padding-bottom: 1px;
+}
+
+a,
+a:hover {
+  color: rgba(var(--main-dark-color), 0.8);
+}
+
+a:focus,
+a:active,
+a:hover {
+  opacity: 1;
+}
+
+a:focus,
+a:active,
+a:visited {
+  color: var(--main-dark-color);
+}

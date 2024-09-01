@@ -1,14 +1,10 @@
 ---
-title: "Developpeur"
+title: "Vincent Tabary"
 draft: false
 params:
-  subtitle: "Développeur informatique, curieux et passionné"
+  subtitle: "Développeur informatique"
+  main_class: "resume"
 ---
-
-[LinkedIn](https://www.linkedin.com/in/vincent-tabary-63354013/)
-[Instagram](https://www.instagram.com/vincenttabary/)
-[Facebook](https://www.facebook.com/vtabary)
-[Github](https://github.com/vtabary)
 
 ## Experiences
 
@@ -40,8 +36,8 @@ params:
 - **2007**: Ingénieur en informatique, Université de Technologie de Compiègne
 - **2004**: DUT Informatique, IUT d'Amiens
 
-## Vie associative
+## Vie associative & intérêts
 
-- [Es Spes](https://www.facebook.com/CompagnieEsSpes): Improvision théâtrale
-- [Arverne Gospel Singers](https://www.facebook.com/Arvernegospelsingers/): Chorale Gospel
-- [Judo Club Chamalières](https://judo-club-chamalierois.ffjudo.com/): Club de Judo
+- Improvision théâtrale: [Es Spes](https://www.facebook.com/CompagnieEsSpes)
+- Sports: Aviron, judo
+- Arts: Théâtre, danse, musique (ukulélé, guitare, violon)
